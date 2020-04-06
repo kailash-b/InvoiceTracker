@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleInvoiceTracker", "SampleInvoiceTracker\SampleInvoiceTracker.csproj", "{E5251AB7-1B76-4309-87D9-F37BB5ECF40D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTracer", "CommonTracer\CommonTracer.csproj", "{4DB41BF3-E6DD-42AD-B8FE-4681500874C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTracer.Unit", "CommonTracer.Unit\CommonTracer.Unit.csproj", "{27B1009D-C25E-495F-B565-24280AE512B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E5251AB7-1B76-4309-87D9-F37BB5ECF40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5251AB7-1B76-4309-87D9-F37BB5ECF40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5251AB7-1B76-4309-87D9-F37BB5ECF40D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB41BF3-E6DD-42AD-B8FE-4681500874C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB41BF3-E6DD-42AD-B8FE-4681500874C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB41BF3-E6DD-42AD-B8FE-4681500874C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB41BF3-E6DD-42AD-B8FE-4681500874C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B1009D-C25E-495F-B565-24280AE512B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B1009D-C25E-495F-B565-24280AE512B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B1009D-C25E-495F-B565-24280AE512B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B1009D-C25E-495F-B565-24280AE512B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
