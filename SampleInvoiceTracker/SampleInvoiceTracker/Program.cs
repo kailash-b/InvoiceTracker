@@ -7,7 +7,7 @@ namespace SampleInvoiceTracker
         static void Main(string[] args) {
             Console.WriteLine("Hi There!");
             Console.WriteLine(
-                "This is a sample Console Application just to know how to add stuff to GitHub");
+                "This is a sample Console Application just to know how to add new stuff to GitHub");
             while (Show()) {
             }
             Console.ReadKey();
