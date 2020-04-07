@@ -24,3 +24,5 @@ SampleInvoiceTracker/.vs/SampleInvoiceTracker/v15/Server/sqlite3/storage.ide-shm
 /SampleInvoiceTracker/CommonTracer.Unit/obj/Debug
 /SampleInvoiceTracker/CommonTracer.Unit/Properties/AssemblyInfo.cs
 /SampleInvoiceTracker/SampleInvoiceTracker/bin/Debug/MyTextLog.log
+*/obj/*
+*/bin/*
