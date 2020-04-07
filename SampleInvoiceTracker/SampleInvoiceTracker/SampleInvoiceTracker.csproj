@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E5251AB7-1B76-4309-87D9-F37BB5ECF40D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SampleInvoiceTracker</RootNamespace>
+    <RootNamespace>InvoiceTracker.SampleInvoiceTracker</RootNamespace>
     <AssemblyName>SampleInvoiceTracker</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -48,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommonTracer\CommonTracer.csproj">
+      <Project>{4db41bf3-e6dd-42ad-b8fe-4681500874c8}</Project>
+      <Name>CommonTracer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
