@@ -22,7 +22,6 @@ SampleInvoiceTracker/.vs/SampleInvoiceTracker/v15/Server/sqlite3/storage.ide-shm
 *.cache
 /SampleInvoiceTracker/CommonTracer.Unit/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
 /SampleInvoiceTracker/CommonTracer.Unit/obj/Debug
-/SampleInvoiceTracker/CommonTracer.Unit/Properties/AssemblyInfo.cs
 /SampleInvoiceTracker/SampleInvoiceTracker/bin/Debug/MyTextLog.log
 */obj/*
 */bin/*
